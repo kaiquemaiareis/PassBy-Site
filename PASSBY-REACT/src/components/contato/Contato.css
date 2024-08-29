@@ -1,0 +1,35 @@
+.contatoBody {
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(195, 195, 195);
+}
+
+.contatoString{
+    display: flex;
+    padding: 10px;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: 45px;
+}
+
+.fdcString {
+    display: flex;
+    margin-left: 13%;
+    font-size: 30px;
+    margin-bottom: 3%;
+    margin-top: -1%;
+}
+
+.fdcStyle {
+    display: flex;
+    margin-left: 13%;
+    font-size: 20px;
+}
+
+.fdcValor{
+    display:flex;
+    margin-left: 13%;
+    margin-bottom: 5%;
+}
